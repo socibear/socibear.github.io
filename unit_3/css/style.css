@@ -1,5 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton|Catamaran');
 <body {
 background-color: yellow;
 }
 h1, p {color: green;
 }
+font-family: 'Anton', sans-serif;
+font-family: 'Catamaran', sans-serif;
